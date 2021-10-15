@@ -12461,7 +12461,7 @@ html[dir="rtl"] [direction="rtl"][data-sidebar-style="compact"]:not([data-layout
     top: 5rem; } }
 .drum-box {
   background: #ffa370;
-  background: -moz-linear-gradient(-45deg, #ffa370 62%, #ff5247 99%);
+  background: -moz-linear-gradient(-45deg, #ffa370 62%, #200503 99%);
   background: -webkit-linear-gradient(-45deg, #ffa370 62%, #ff5247 99%);
   background: linear-gradient(135deg, #ffa370 62%, #ff5247 99%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa370', endColorstr='#ff5247',GradientType=1 );
